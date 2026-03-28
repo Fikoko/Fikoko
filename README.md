@@ -20,12 +20,17 @@ through disciplined version control and tooling.
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
 </p>
+
+- C with necessary time and libraries can do anything.
+- Rust is for when I want compile-time memory safety without a garbage collector
+- Python is for scripting, automation, and quick data work where speed of writing matters more than speed of execution
+- Bash is for gluing tools together, CI scripts, and anything that lives in a terminal
+
+---
 
 ### ☁️ DevOps & Cloud
 
@@ -35,6 +40,12 @@ through disciplined version control and tooling.
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
 </p>
 
+- AWS — production infrastructure, storage, and managed services
+- Docker — reproducible builds and environment isolation
+- Kubernetes — orchestrating containerized workloads at scale
+
+---
+
 ### 🗄️ Databases
 
 <p>
@@ -43,6 +54,13 @@ through disciplined version control and tooling.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
 </p>
+
+- SQLite — embedded, zero-config storage for local and constrained environments
+- PostgreSQL — my default for relational data when I need a serious production database
+- MySQL — widely deployed relational store, common in existing stacks
+- MSSQL — enterprise environments where the Microsoft stack is already in place
+
+---
 
 ### 🧩 Frameworks
 
@@ -54,6 +72,14 @@ through disciplined version control and tooling.
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
 </p>
 
+- .NET — full-featured runtime for C# applications and enterprise tooling
+- Django — batteries-included web framework when I need to move fast in Python
+- Flask — lightweight Python web layer when I want to control the structure myself
+- Laravel — PHP projects where a well-structured MVC framework is the right call
+- Qt — cross-platform native desktop and embedded UI
+
+---
+
 ### 🤖 Data & ML
 
 <p>
@@ -64,10 +90,25 @@ through disciplined version control and tooling.
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
 </p>
 
+- Pandas — data wrangling and tabular analysis
+- OpenCV — computer vision and image processing pipelines
+- PyTorch — model training and experimentation
+- TensorFlow — production ML pipelines and deployment
+- scikit-learn — classical ML algorithms and quick experimentation
+
+---
+
 ### 🎮 Game Engines
 
 <p>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal" width="40" height="40"/>
 </p>
+
+- Unity — 2D/3D game and simulation prototyping with a large ecosystem
+- Unreal — high-fidelity real-time 3D when visual quality and C++ control matter
+
+---
+
+
 
