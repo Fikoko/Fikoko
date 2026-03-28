@@ -53,12 +53,14 @@ through disciplined version control and tooling.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/LMDB-003545?style=for-the-badge&logoColor=white" alt="LMDB" height="40"/>
 </p>
 
 - SQLite — embedded, zero-config storage for local and constrained environments
 - PostgreSQL — my default for relational data when I need a serious production database
 - MySQL — widely deployed relational store, common in existing stacks
 - MSSQL — enterprise environments where the Microsoft stack is already in place
+- LMDB — memory-mapped key-value store with a clean C API, no hidden allocation, and ACID transactions; the go-to when I need fast persistent storage without the overhead of a full relational database
 
 ---
 
