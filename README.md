@@ -1,4 +1,4 @@
-<h1 align="center">I'm Fikret Güney Ersezer</h1>
+<h1 align="center">Fikret Güney Ersezer</h1>
 <h3 align="center">Systems Engineer · Library Maintainer · Version Control Enthusiast</h3>
 
 ---
