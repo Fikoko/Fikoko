@@ -25,7 +25,7 @@ through disciplined version control and tooling.
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
 </p>
 
-- C with necessary time and libraries can do anything.
+- C with the right libraries and discipline, it can do anything
 - Rust is for when I want compile-time memory safety without a garbage collector
 - Python is for scripting, automation, and quick data work where speed of writing matters more than speed of execution
 - Bash is for gluing tools together, CI scripts, and anything that lives in a terminal
