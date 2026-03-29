@@ -72,13 +72,15 @@ through disciplined version control and tooling.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wasm/wasm-original.svg" alt="WebAssembly" width="40" height="40"/>
 </p>
 
-- .NET — full-featured runtime for C# applications and enterprise tooling
-- Django — batteries-included web framework when I need to move fast in Python
-- Flask — lightweight Python web layer when I want to control the structure myself
-- Laravel — PHP projects where a well-structured MVC framework is the right call
-- Qt — cross-platform native desktop and embedded UI
+- **.NET** — full-featured runtime for C# applications and enterprise tooling
+- **Django** — batteries-included web framework when I need to move fast in Python
+- **Flask** — lightweight Python web layer when I want to control the structure myself
+- **Laravel** — PHP projects where a well-structured MVC framework is the right call
+- **Qt** — cross-platform native desktop and embedded UI
+- **WebAssembly** — compiling C and C++ to run in the browser or standalone runtimes without modification
 
 ---
 
@@ -112,5 +114,13 @@ through disciplined version control and tooling.
 
 ---
 
+### ⚙️ Physics Engines
 
+<p>
+  <img src="https://img.shields.io/badge/Bullet-333333?style=for-the-badge&logoColor=white" alt="Bullet" height="40"/>
+  <img src="https://img.shields.io/badge/PhysX-76B900?style=for-the-badge&logoColor=white" alt="PhysX" height="40"/>
+</p>
+
+- **Bullet** — open source 3D physics simulation, my go-to for rigid body dynamics outside of a full engine
+- **PhysX** — Nvidia's physics engine, used when working within Unreal or when GPU-accelerated simulation matters
 
