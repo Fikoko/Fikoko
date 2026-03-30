@@ -68,7 +68,6 @@ through disciplined version control and tooling.
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
@@ -76,7 +75,6 @@ through disciplined version control and tooling.
 </p>
 
 - **.NET** — full-featured runtime for C# applications and enterprise tooling
-- **Django** — batteries-included web framework when I need to move fast in Python
 - **Flask** — lightweight Python web layer when I want to control the structure myself
 - **Laravel** — PHP projects where a well-structured MVC framework is the right call
 - **Qt** — cross-platform native desktop and embedded UI
