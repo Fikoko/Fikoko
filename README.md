@@ -18,12 +18,9 @@ through disciplined version control and tooling.
 
 ### 🖥️ Systems & Languages
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-</p>
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/> |
+|:-:|:-:|:-:|:-:|
+| C | Rust | Python | Bash |
 
 - C with the right libraries and discipline, it can do anything
 - Rust is for when I want compile-time memory safety without a garbage collector
@@ -34,11 +31,9 @@ through disciplined version control and tooling.
 
 ### ☁️ DevOps & Cloud
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-</p>
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> |
+|:-:|:-:|:-:|
+| AWS | Docker | Kubernetes |
 
 - AWS — production infrastructure, storage, and managed services
 - Docker — reproducible builds and environment isolation
@@ -48,13 +43,9 @@ through disciplined version control and tooling.
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
-  <img src="https://dbdb.io/media/logos/lmdb.svg" alt="LMDB" height="40"/>
-</p>
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/> | <img src="https://img.shields.io/badge/LMDB-003B6F?style=for-the-badge&logoColor=white" height="40"/> |
+|:-:|:-:|:-:|:-:|:-:|
+| SQLite | PostgreSQL | MySQL | MSSQL | LMDB |
 
 - SQLite — embedded, zero-config storage for local and constrained environments
 - PostgreSQL — my default for relational data when I need a serious production database
@@ -66,31 +57,19 @@ through disciplined version control and tooling.
 
 ### 🧩 Frameworks
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wasm/wasm-original.svg" alt="WebAssembly" width="40" height="40"/>
-</p>
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wasm/wasm-original.svg" width="40" height="40"/> |
+|:-:|
+| WebAssembly |
 
-- **.NET** — full-featured runtime for C# applications and enterprise tooling
-- **Flask** — lightweight Python web layer when I want to control the structure myself
-- **Laravel** — PHP projects where a well-structured MVC framework is the right call
-- **Qt** — cross-platform native desktop and embedded UI
 - **WebAssembly** — compiling C and C++ to run in the browser or standalone runtimes without modification
 
 ---
 
 ### 🤖 Data & ML
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-</p>
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/> |
+|:-:|:-:|:-:|:-:|:-:|
+| Pandas | OpenCV | PyTorch | TensorFlow | scikit-learn |
 
 - Pandas — data wrangling and tabular analysis
 - OpenCV — computer vision and image processing pipelines
@@ -102,10 +81,9 @@ through disciplined version control and tooling.
 
 ### 🎮 Game Engines
 
-<p>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal" width="40" height="40"/>
-</p>
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="40" height="40"/> |
+|:-:|:-:|
+| Unity | Unreal |
 
 - Unity — 2D/3D game and simulation prototyping with a large ecosystem
 - Unreal — high-fidelity real-time 3D when visual quality and C++ control matter
@@ -114,11 +92,9 @@ through disciplined version control and tooling.
 
 ### ⚙️ Physics Engines
 
-<p>
-  <img src="https://img.shields.io/badge/Bullet-333333?style=for-the-badge&logoColor=white" alt="Bullet" height="40"/>
-  <img src="https://img.shields.io/badge/PhysX-76B900?style=for-the-badge&logoColor=white" alt="PhysX" height="40"/>
-</p>
+| <img src="https://img.shields.io/badge/Bullet-333333?style=for-the-badge&logoColor=white" height="40"/> | <img src="https://img.shields.io/badge/PhysX-76B900?style=for-the-badge&logoColor=white" height="40"/> |
+|:-:|:-:|
+| Bullet | PhysX |
 
 - **Bullet** — open source 3D physics simulation, my go-to for rigid body dynamics outside of a full engine
 - **PhysX** — Nvidia's physics engine, used when working within Unreal or when GPU-accelerated simulation matters
-
