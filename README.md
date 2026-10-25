@@ -18,14 +18,13 @@ through disciplined version control and tooling.
 
 ### 🖥️ Systems & Languages
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/> |
-|:-:|:-:|:-:|:-:|
-| C | Rust | Python | Bash |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/nushell/nushell.github.io/main/.vuepress/public/icon.png" width="40" height="40"/> |
+|:-:|:-:|:-:|
+| C | Rust | Nushell |
 
 - C with the right libraries and discipline, it can do anything
-- Rust is for when I want compile-time memory safety without a garbage collector
-- Python is for scripting, automation, and quick data work where speed of writing matters more than speed of execution
-- Bash is for gluing tools together, CI scripts, and anything that lives in a terminal
+- Rust is for modern development where safety and speed should come cheap, enforced by the compiler instead of by me
+- Nushell is my one shell for anything that lives in a terminal: scripting, automation, quick data work, tool glue, and CI, with pipelines that pass tables instead of text so scripts stay explicit while written once and run anywhere.
 
 ---
 
