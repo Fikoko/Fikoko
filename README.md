@@ -30,11 +30,10 @@ through disciplined version control and tooling.
 
 ### ☁️ DevOps & Cloud
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> |
-|:-:|:-:|:-:|
-| AWS | Docker | Kubernetes |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> |
+|:-:|:-:|
+| Docker | Kubernetes |
 
-- AWS — production infrastructure, storage, and managed services
 - Docker — reproducible builds and environment isolation
 - Kubernetes — orchestrating containerized workloads at scale
 
