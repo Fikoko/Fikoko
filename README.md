@@ -23,7 +23,7 @@ through disciplined version control and tooling.
 | C | Rust | Nushell |
 
 - C with the right libraries and discipline, it can do anything. Ideal for ultra-assurance and high-performance cases, where safety/verification or speed is priority.
-- Rust is for modern development where safety and speed should come cheap, not the priority, enforced by the compiler instead of by me
+- Rust is for modern development where safety and speed should come cheap, not the priority, enforced by the compiler instead of by user. Especially ideal when you want safety and speed, but you dont necessarily need to prove each of your code's lines to a certified authority.
 - Nushell is my one shell for anything that lives in a terminal: scripting, automation, quick data work, tool glue, and CI, with pipelines that pass tables instead of text so scripts stay explicit while written once and run anywhere.
 
 ---
